@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "🖤") {
  return message.reply({
  body: "     「🌺\n\n\n\n\n\nরবের রাস্তায় ফিরে আসুন \n\n\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆-----ᑘᒪᒪᗩSᕼ ッ」",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/vdIJnoJ.mp4")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/U7IZ2qv.mp4")
  });
  }
  }
